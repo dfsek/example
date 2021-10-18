@@ -9,7 +9,7 @@ hello, world
 or whoever this is
 um
 have fun
-hope you're more interesting than this is
+hope your commit is more interesting
 */
 
 
